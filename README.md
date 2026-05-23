@@ -69,6 +69,12 @@ The simulated radiation pattern and S11 plots verified correct antenna operation
 - S11 Return Loss Graphs
 - Fabrication Images
 
+
+## note
+
+the driven element which is of two equal segments which u can see in the antenna rod image is connected/soldered  to the dipole connector as shown in antenna design image1, one is connected to the top and the other to the bottom in an antiparallel direction.
+
+
 ## Author
 
 Harish Raja  
